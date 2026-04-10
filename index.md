@@ -16,7 +16,7 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering at
 
 ## News
 
-<div class="news-scroll">
+<div class="news-scroll" style="height: 185px; overflow-y: auto;">
   <ul class="news-items">
     <li><strong>[Apr. 2026]</strong> Our paper got <strong><em>accepted</em></strong> at ACM Conference on Computer and Communications Security (CCS 2026).</li>
     <li><strong>[Oct. 2025]</strong> Our paper got <strong><em>accepted</em></strong> at Transaction on Machine Learning in Communications and Networking.</li>
