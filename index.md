@@ -14,9 +14,9 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering at
 - **Mobile Computing:** Wireless networking, wireless security
 - **Machine Learning:** Transformer, diffusion model
 
-## News
-
-<div class="news-scroll" style="height: 185px; overflow-y: auto;">
+<div class="news-card">
+  <h2 class="news-card-title">Latest News</h2>
+  <div class="news-scroll">
   <ul class="news-items">
     <li><strong>[Apr. 2026]</strong> Our paper got <strong><em>accepted</em></strong> at ACM Conference on Computer and Communications Security (CCS 2026).</li>
     <li><strong>[Oct. 2025]</strong> Our paper got <strong><em>accepted</em></strong> at Transaction on Machine Learning in Communications and Networking.</li>
@@ -26,6 +26,7 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering at
     <li><strong>[Jul. 2024]</strong> Our paper got <strong><em>rejected</em></strong> at Journal on Selected Area in Communication.</li>
     <li><strong>[Jun. 2023]</strong> I graduated from University of Science and Technology Beijing.</li>
   </ul>
+  </div>
 </div>
 
 [//]: #- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
