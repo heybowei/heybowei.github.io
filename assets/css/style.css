@@ -139,7 +139,7 @@ footer { width: 232px; float: left; position: fixed; bottom: 30px; -webkit-font-
 
 .news-card-title {
   margin: 0 0 14px;
-  font-size: 1.65rem;
+  font-size: 157%;
   font-weight: 600;
   color: #2f3240;
 }
