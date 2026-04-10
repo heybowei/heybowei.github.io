@@ -2,8 +2,6 @@
 layout: homepage
 ---
 
-<p style="margin: 4px 0 20px; font-style: italic; color: #555; font-size: 1.45rem; font-weight: 600;">"STAY OPEN, STAY CURIOUS"</p>
-
 ## About Me
 
 I am a Ph.D. student in the Department of Electrical and Computer Engineering at Clemson Unverisity, supervised by <a href="https://cecas.clemson.edu/~linkeg/index.html">Linke Guo</a>. Previously, I received my B.Eng. degree from University of Science and Technology Beijing and M.Sc. from Michigan State University.
@@ -15,7 +13,7 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering at
 - **Machine Learning:** Transformer, diffusion model
 
 <div class="news-card">
-  <h2 class="news-card-title">Latest News</h2>
+  <h2 class="news-card-title">News</h2>
   <div class="news-scroll">
   <ul class="news-items">
     <li><strong>[Apr. 2026]</strong> Our paper got <strong><em>accepted</em></strong> at ACM Conference on Computer and Communications Security (CCS 2026).</li>
