@@ -12,19 +12,22 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering at
 - **Mobile Computing:** Wireless networking, wireless security
 - **Machine Learning:** Transformer, diffusion model
 
-<div class="news-card">
-  <h2 class="news-card-title">News</h2>
-  <div class="news-scroll">
-  <ul class="news-items">
-    <li><strong>[Apr. 2026]</strong> Our paper got <strong><em>accepted</em></strong> at ACM Conference on Computer and Communications Security (CCS 2026).</li>
-    <li><strong>[Oct. 2025]</strong> Our paper got <strong><em>accepted</em></strong> at Transaction on Machine Learning in Communications and Networking.</li>
-    <li><strong>[May. 2025]</strong> I graduated from Michigan State University.</li>
-    <li><strong>[Feb. 2025]</strong> Our paper got <strong><em>rejected</em></strong> at Transaction on Networking.</li>
-    <li><strong>[Oct. 2024]</strong> Our paper got <strong><em>rejected</em></strong> at Transaction on Wireless Communication.</li>
-    <li><strong>[Jul. 2024]</strong> Our paper got <strong><em>rejected</em></strong> at Journal on Selected Area in Communication.</li>
-    <li><strong>[Jun. 2023]</strong> I graduated from University of Science and Technology Beijing.</li>
-  </ul>
-  </div>
+## News
+
+<ul class="news-list">
+  <li><strong>[Apr. 2026]</strong> Our paper got <strong><em>accepted</em></strong> at ACM Conference on Computer and Communications Security (CCS 2026).</li>
+  <li><strong>[Oct. 2025]</strong> Our paper got <strong><em>accepted</em></strong> at Transaction on Machine Learning in Communications and Networking.</li>
+  <li><strong>[May. 2025]</strong> I graduated from Michigan State University.</li>
+  <li><strong>[Feb. 2025]</strong> Our paper got <strong><em>rejected</em></strong> at Transaction on Networking.</li>
+  <li><strong>[Oct. 2024]</strong> Our paper got <strong><em>rejected</em></strong> at Transaction on Wireless Communication.</li>
+  <li><a href="javascript:void(0)" onclick="toggleVis(this)">Show more</a></li>
+</ul>
+
+<div id="newsmore" style="display: none;">
+<ul class="news-list" style="margin-top: -8px;">
+  <li><strong>[Jul. 2024]</strong> Our paper got <strong><em>rejected</em></strong> at Journal on Selected Area in Communication.</li>
+  <li><strong>[Jun. 2023]</strong> I graduated from University of Science and Technology Beijing.</li>
+</ul>
 </div>
 
 [//]: #- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
