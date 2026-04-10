@@ -16,11 +16,12 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering at
 
 ## News
 
-- **[Oct. 2025]** Our paper got __accepted__ from Transaction on Machine Learning in Communications and Networking.
+- **[Apr. 2026]** Our paper got __accepted__ at CCS 2026.
+- **[Oct. 2025]** Our paper got __accepted__ at Transaction on Machine Learning in Communications and Networking.
 - **[May. 2025]** I graduated from Michigan State University.
-- **[Feb. 2025]** Our paper got __rejected__ from Transaction on Networking.
-- **[Oct. 2024]** Our paper got __rejected__ from Transaction on Wireless Communication.
-- **[Jul. 2024]** Our paper got __rejected__ from Journal on Selected Area in Communication.
+- **[Feb. 2025]** Our paper got __rejected__ at Transaction on Networking.
+- **[Oct. 2024]** Our paper got __rejected__ at Transaction on Wireless Communication.
+- **[Jul. 2024]** Our paper got __rejected__ at Journal on Selected Area in Communication.
 - **[Jun. 2023]** I graduated from University of Science and Technology Beijing.
 
 [//]: #- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
