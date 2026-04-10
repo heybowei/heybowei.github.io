@@ -16,13 +16,17 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering at
 
 ## News
 
-- **[Apr. 2026]** Our paper got __accepted__ at CCS 2026.
-- **[Oct. 2025]** Our paper got __accepted__ at Transaction on Machine Learning in Communications and Networking.
-- **[May. 2025]** I graduated from Michigan State University.
-- **[Feb. 2025]** Our paper got __rejected__ at Transaction on Networking.
-- **[Oct. 2024]** Our paper got __rejected__ at Transaction on Wireless Communication.
-- **[Jul. 2024]** Our paper got __rejected__ at Journal on Selected Area in Communication.
-- **[Jun. 2023]** I graduated from University of Science and Technology Beijing.
+<div class="news-scroll">
+  <ul class="news-items">
+    <li><strong>[Apr. 2026]</strong> Our paper got <strong><em>accepted</em></strong> at ACM Conference on Computer and Communications Security (CCS 2026).</li>
+    <li><strong>[Oct. 2025]</strong> Our paper got <strong><em>accepted</em></strong> at Transaction on Machine Learning in Communications and Networking.</li>
+    <li><strong>[May. 2025]</strong> I graduated from Michigan State University.</li>
+    <li><strong>[Feb. 2025]</strong> Our paper got <strong><em>rejected</em></strong> at Transaction on Networking.</li>
+    <li><strong>[Oct. 2024]</strong> Our paper got <strong><em>rejected</em></strong> at Transaction on Wireless Communication.</li>
+    <li><strong>[Jul. 2024]</strong> Our paper got <strong><em>rejected</em></strong> at Journal on Selected Area in Communication.</li>
+    <li><strong>[Jun. 2023]</strong> I graduated from University of Science and Technology Beijing.</li>
+  </ul>
+</div>
 
 [//]: #- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 [//]: #- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
