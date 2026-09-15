@@ -38,12 +38,13 @@
     <script type="text/javascript">
       function toggleVis(link) {
         var div = document.getElementById('newsmore');
+        var showMoreItem = document.getElementById('news-show-more');
         if (div.style.display === 'none') {
           div.style.display = 'block';
-          link.textContent = 'Show less';
+          showMoreItem.style.display = 'none';
         } else {
           div.style.display = 'none';
-          link.textContent = 'Show more';
+          showMoreItem.style.display = 'list-item';
         }
       }
     </script>

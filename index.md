@@ -21,13 +21,14 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering at
   <li><strong>[May. 2025]</strong> I graduated from Michigan State University.</li>
   <li><strong>[Feb. 2025]</strong> Our paper got <strong><em>rejected</em></strong> at Transaction on Networking.</li>
   <li><strong>[Oct. 2024]</strong> Our paper got <strong><em>rejected</em></strong> at Transaction on Wireless Communication.</li>
-  <li><a href="javascript:void(0)" onclick="toggleVis(this)">Show more</a></li>
+  <li id="news-show-more"><a href="javascript:void(0)" onclick="toggleVis(this)">Show more</a></li>
 </ul>
 
 <div id="newsmore" style="display: none;">
 <ul class="news-list" style="margin-top: -8px;">
   <li><strong>[Jul. 2024]</strong> Our paper got <strong><em>rejected</em></strong> at Journal on Selected Area in Communication.</li>
   <li><strong>[Jun. 2023]</strong> I graduated from University of Science and Technology Beijing.</li>
+  <li><a href="javascript:void(0)" onclick="toggleVis(this)">Show less</a></li>
 </ul>
 </div>
 
