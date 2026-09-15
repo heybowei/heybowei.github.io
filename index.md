@@ -15,6 +15,7 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering at
 ## News
 
 <ul class="news-list">
+  <li><strong>[Sep. 2026]</strong> Our paper, <em>“Exposing and Securing LLMs Against Hypocrisy-Induced Manipulation,”</em> got <strong><em>accepted</em></strong> at the IEEE Conference on Communications and Network Security (IEEE CNS 2026).</li>
   <li><strong>[Apr. 2026]</strong> Our paper got <strong><em>accepted</em></strong> at ACM Conference on Computer and Communications Security (CCS 2026).</li>
   <li><strong>[Oct. 2025]</strong> Our paper got <strong><em>accepted</em></strong> at Transaction on Machine Learning in Communications and Networking.</li>
   <li><strong>[May. 2025]</strong> I graduated from Michigan State University.</li>
