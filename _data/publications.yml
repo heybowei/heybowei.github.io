@@ -1,5 +1,13 @@
 main:
 
+  - title: Exposing and Securing LLMs Against Hypocrisy-Induced Manipulation
+    authors: Zhuoyang Wang, Gen Li, <strong>Bowei Zhang</strong>, and Linke Guo
+    conference_short: CNS 2026
+    conference: IEEE Conference on Communications and Network Security 2026
+    page: https://zoeyw061.github.io/
+    image: ./assets/img/hypo-align.png
+    notes:
+
   - title: Anti-Jamming 5G Millimeter-Wave Communication via Joint Analog and Digital Beamforming - A Bayesian Optimization Approach
     authors: Peihao Yan, <strong>Bowei Zhang</strong>, Shichen Zhang, Kai Zeng, Huacheng Zeng
     conference_short: TMLCN
